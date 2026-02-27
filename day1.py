@@ -10,7 +10,6 @@ and saves results into results.json.
 #Abstract Base Class --> Person (ABC) → abstract methods: get_details(), to_dict()
 
 
-
 from typing import Dict , List , Any
 from abc import ABC, abstractmethod
 from contextlib import contextmanager
